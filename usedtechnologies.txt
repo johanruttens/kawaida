@@ -1,0 +1,11 @@
+Proposal used technologies for the project:
+
+-MySQL (BIRT database ? http://www.eclipse.org/birt/phoenix/db/)
+-J2EE 6
+-SOLR
+-VAADIN
+
+
+Tools:
+-GITHUB
+-IntelliJ
